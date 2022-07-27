@@ -55,9 +55,9 @@ Langkah Terakhir, silahkan jalankan local development server Laravel dengan meng
 ```bash
 php artisan serve
 ```
-```bash
+
 Project ini akan berjalan di `https://localhost:8080`.
 [stackshare](https://stackshare.io/fitra-nurakbar)
 [DEV](https://dev.to/fitranurakbar)
 [Medium](https://medium.com/@fitranurakbar)
-```
+
